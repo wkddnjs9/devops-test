@@ -1,5 +1,11 @@
 // 기능 구현 리스트 설정
 // Account Mgmt
+<<<<<<< Updated upstream
 // update config02 file by admin   
 // test for conflict
 // 222222
+=======
+// Login & Logout
+// Board List (CRUD)
+// 222
+>>>>>>> Stashed changes
